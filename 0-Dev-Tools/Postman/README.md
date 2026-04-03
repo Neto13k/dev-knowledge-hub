@@ -6,7 +6,7 @@
 
 ## 📓 Notebook Postman no NotebookLM
 
-[🔗 Acessar Notebook Postman] https://notebooklm.google.com/notebook/1526531b-fe58-410c-930a-da3a27db3983
+[🔗 Acessar Notebook Postman] (https://notebooklm.google.com/notebook/1526531b-fe58-410c-930a-da3a27db3983)
 
 > 💡 **Como uso:** Em vez de navegar na documentação manualmente, faço perguntas
 > com contexto real das minhas requisições diretamente no Notebook.

@@ -6,7 +6,7 @@
 
 ## 📓 Notebook Git no NotebookLM
 
-[🔗 Acessar Notebook Git] https://notebooklm.google.com/notebook/f954de78-d707-4018-a4a1-a98a2b628805
+[🔗 Acessar Notebook Git] (https://notebooklm.google.com/notebook/f954de78-d707-4018-a4a1-a98a2b628805)
 
 > 💡 **Como uso:** Em vez de navegar na documentação manualmente, faço perguntas 
 > com contexto real do meu código diretamente no Notebook.

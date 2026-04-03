@@ -6,7 +6,7 @@
 
 ## 📓 Notebook HTML & CSS no NotebookLM
 
-[🔗 Acessar Notebook HTML & CSS] https://notebooklm.google.com/notebook/b8c134bd-f64a-4d22-a9cf-32e690291351
+[🔗 Acessar Notebook HTML & CSS] (https://notebooklm.google.com/notebook/b8c134bd-f64a-4d22-a9cf-32e690291351)
 
 > 💡 **Como uso:** Em vez de navegar na documentação manualmente, faço perguntas
 > com contexto real do meu código diretamente no Notebook.

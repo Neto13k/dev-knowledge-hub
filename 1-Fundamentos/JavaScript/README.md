@@ -6,7 +6,7 @@
 
 ## 📓 Notebook JavaScript no NotebookLM
 
-[🔗 Acessar Notebook JavaScript] https://notebooklm.google.com/notebook/84694740-b597-4b70-9410-9cebc05deb90
+[🔗 Acessar Notebook JavaScript] (https://notebooklm.google.com/notebook/84694740-b597-4b70-9410-9cebc05deb90)
 
 > 💡 **Como uso:** Em vez de navegar na documentação manualmente, faço perguntas
 > com contexto real do meu código diretamente no Notebook.
