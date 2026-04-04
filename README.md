@@ -26,7 +26,7 @@ sem conteúdo desatualizado, sem alucinações sem base.
 
 ---
 
-## 💡 Exemplo Real
+##  🔬 Exemplo Real
 
 **Pergunta feita no Notebook React + Axios:**
 > "Como tipar corretamente uma resposta de API no Axios com TypeScript?"
