@@ -188,3 +188,36 @@ que guiam cada decisão de escrita e versionamento neste repositório.
 ---
 
 ## 🔁 Como este fluxo funciona na prática
+
+> O resultado é código escrito com compreensão real, não código colado sem contexto.
+
+---
+
+## 🔄 Atualização das Fontes
+
+As documentações utilizadas são carregadas manualmente no NotebookLM.
+
+Isso garante:
+- Controle total sobre as fontes
+- Confiabilidade do conteúdo
+- Rastreabilidade das respostas
+
+⚠️ A atualização das documentações não é automática. As fontes são revisadas
+periodicamente para acompanhar novas versões das tecnologias.
+
+---
+
+## 🎯 O que este projeto demonstra
+
+- Método estruturado de aprendizado com IA e documentação oficial
+- Visão fullstack real — do banco de dados à interface
+- Uso responsável de IA como ferramenta de busca, não de geração cega de código
+- Maturidade técnica com Clean Code e Conventional Commits desde o início
+- Capacidade de tomar decisões baseadas em fontes verificáveis
+
+> Mais do que mostrar código pronto, este repositório mostra **como decisões técnicas
+> são tomadas**.
+
+---
+
+*"O código é o resultado, a documentação é o mapa e a organização é o caminho."*
