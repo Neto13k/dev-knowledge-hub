@@ -1,8 +1,8 @@
 # 🧠 Dev Knowledge Hub
 
-> Este repositório não é um curso. É um ecossistema de busca semântica onde utilizo IA
-> para navegar em documentações oficiais, garantindo que cada linha de código siga as
-> melhores práticas do mercado.
+Este repositório documenta como utilizo IA de forma controlada no desenvolvimento de software, utilizando documentação oficial como fonte primária para tomada de decisão técnica.
+
+O foco não é geração de código, mas entendimento, validação e construção baseada em fontes confiáveis.
 
 > ⚠️ **Nota de Evolução:** Este repositório e meus Notebooks de IA estão em constante
 > atualização e expansão conforme novas tecnologias e padrões são integrados ao meu
@@ -26,17 +26,51 @@ sem conteúdo desatualizado, sem alucinações sem base.
 
 ---
 
-##  🔬 Exemplo Real
+## 🔄 Workflow de Desenvolvimento com IA
 
-**Pergunta feita no Notebook React + Axios:**
-> "Como tipar corretamente uma resposta de API no Axios com TypeScript?"
+1. Definição do problema
+2. Consulta no NotebookLM (fontes oficiais)
+3. Validação na documentação original
+4. Comparação de abordagens
+5. Implementação manual
+6. Revisão crítica com IA
 
-**Resultado obtido:**
-- Tipagem segura com interfaces
+> A IA é utilizada como suporte à decisão, não como fonte final de código.
+
+---
+
+## 🔬 Exemplo Real
+
+Problema: tipar corretamente uma resposta de API no Axios com TypeScript
+
+Processo:
+1. Consulta no NotebookLM sobre tipagem no Axios
+2. Validação na documentação oficial do Axios e TypeScript
+3. Comparação entre uso de interfaces e tipos genéricos
+4. Definição da abordagem mais segura
+
+Decisão:
+- Uso de tipagem explícita com interfaces
+- Evitar uso de `any`
 - Integração direta com React
-- Código sem uso de `any`
 
+Resultado:
+- Código tipado com segurança
+- Melhor previsibilidade de dados
+  
 👉 Todas as respostas são baseadas exclusivamente nas documentações carregadas no Notebook.
+
+---
+
+## 🧠 Prompts Engine
+
+Este projeto inclui uma biblioteca de prompts projetada para:
+
+- forçar respostas baseadas em documentação
+- reduzir respostas genéricas
+- estruturar análise de problemas técnicos
+
+Os prompts são parte essencial do fluxo e garantem consistência no uso da IA.
 
 ---
 
@@ -187,10 +221,13 @@ que guiam cada decisão de escrita e versionamento neste repositório.
 
 ---
 
-## 🔁 Como este fluxo funciona na prática
+## 📊 Resultado do Método
 
-> O resultado é código escrito com compreensão real, não código colado sem contexto.
-
+- Decisões baseadas em documentação oficial
+- Redução de tentativa e erro
+- Código com maior previsibilidade
+- Menor dependência de respostas genéricas de IA
+  
 ---
 
 ## 🔄 Atualização das Fontes
